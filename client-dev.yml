@@ -1,2 +1,4 @@
 env:
+  title: Dev env title
   message: Dev environment
+  
